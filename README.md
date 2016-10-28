@@ -1,2 +1,2 @@
 # SwiftForiOS
-Learning iOS development with swift
+iOS App development
